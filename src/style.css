@@ -1,0 +1,30 @@
+.fonte-titulo{
+    font-family: 'Pacifico', cursive;
+}
+.img-carrossel-um{
+    object-fit: cover;
+    object-position: 0 100%;
+    height: 500px;
+}
+.img-carrossel-dois{
+    object-fit: cover;
+    object-position: 0;
+    height: 500px;
+}
+.cor-especial{
+    color: darkred;
+}
+.btn-fundo{
+    background-color: darkred;
+    color: white;
+}
+.borda-verm{
+    border-color: darkred;
+}
+.card-img{
+    object-fit: cover;
+    height: 200px;
+}
+.card-lg{
+    max-width: 18rem;
+}
